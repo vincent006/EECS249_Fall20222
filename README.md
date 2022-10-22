@@ -1,4 +1,4 @@
-# Self-Parking-Car
+# Self-Parking Car
 #### Team: Meng-Hui Chou, Wenhao Li, ShiKai Zheng
 #### Fall 2022 EECS 149/249A Project Charter
 
