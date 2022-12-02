@@ -12,6 +12,10 @@ Items done so far:
 - ubuntu auto login (https://askubuntu.com/questions/819117/how-can-i-get-autologin-at-startup-working-on-ubuntu-server-16-04-1)
 - install ydlidar sdk
 - install ydlidar ros
+- to run the ydlidar ros driver, run
+~~~~
+    roslaunch ydlidar_ros_driver X2.launch
+~~~~
 - enable uart /dev/ttyAMA0 (https://askubuntu.com/questions/1254376/enable-uart-communication-on-pi4-ubuntu-20-04)
 - communicate with romi (baud: 115200)
   - [code for buckler communicating with romi](https://github.com/icyphy/lf-buckler/blob/main/lib/romi.c)
