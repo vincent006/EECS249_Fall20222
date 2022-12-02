@@ -20,10 +20,11 @@ Items done so far:
 - communicate with romi (baud: 115200)
   - [code for buckler communicating with romi](https://github.com/icyphy/lf-buckler/blob/main/lib/romi.c)
   - [nrf52 code for uart](https://github.com/lab11/nrf52x-base/blob/6ca5df7892d2a26c864b52f1b5bf383e16885d25/sdk/nrf5_sdk_15.3.0/modules/nrfx/drivers/include/nrfx_uart.h)
+- add the user (ubuntu) to gpio group (https://www.earnfs.com/en/html/1912.htm)
 - to compile test file, run
 ~~~
     g++ -o romi_test romi_test.cpp romi.c -lwiringPi -lcrypt -lrt -lpthread
-    sudo ./romi_test
+    ./romi_test
 ~~~
 
 <br>
