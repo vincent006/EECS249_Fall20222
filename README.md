@@ -26,6 +26,7 @@ Items done so far:
     g++ -o romi_test romi_test.cpp romi.c -lwiringPi -lcrypt -lrt -lpthread
     ./romi_test
 ~~~
+- with the lidar motor facing the back, the extracted data is x = y_o, y = -x_o
 
 <br>
 
