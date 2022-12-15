@@ -27,6 +27,10 @@ Items done so far:
     ./romi_test
 ~~~
 - with the lidar motor facing the back, the extracted data is x = y_o, y = -x_o
+- change the default python to python 3
+~~~
+    sudo apt install python-is-python3
+~~~
 
 <br>
 
